@@ -62,4 +62,23 @@ As a software engineer, I enjoy using my obsessive attention to detail, getting 
   ## My stats
 
 <p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=OsamaGhydah&show_icons=true&theme=dark&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="OsamaGhydah stats card" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=OsamaGhydah&show_icons=true&theme=highcontrast&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="OsamaGhydah stats card" /></p>
+
+
+
+
+## Connect with me
+
+<a href="https://www.linkedin.com/in/osamaghydah/" target="blank">
+<img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="28" width="111" />
+</a>
+
+<a href="osama.ghydah@gmail.com" target="blank">
+<img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="111" />
+</a>
+
+<a href="osama.alajoury97@gmail.com" target="blank">
+<img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30" width="111" />
+</a>
+
+
