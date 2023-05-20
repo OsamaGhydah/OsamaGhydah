@@ -8,11 +8,11 @@ Reading and learning everything new.
 As a software engineer, I enjoy using my obsessive attention to detail, getting things done with accuracy and speed and always looking for the best.<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
   
   
-  <img align="center" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" alt="JavaScript" height="40" width="40" />
   
   ## My Skills
   
   Languages
+  <div style="display:flex">
   <div>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="40" width="40" />
 </a>
@@ -40,7 +40,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, getting 
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="40" width="40" />
 </a>
 </div>
-
 <br></br>
  Skills Backend Development
  
@@ -59,6 +58,11 @@ As a software engineer, I enjoy using my obsessive attention to detail, getting 
 <a href="https://www.mysql.com/" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
 </a>
+
+<div>
+    <img align="center" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" alt="JavaScript" height="150" width="150" />
+</div>
+</div>
 
   ## My stats
 
