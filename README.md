@@ -8,6 +8,7 @@ Reading and learning everything new.
 As a software engineer, I enjoy using my obsessive attention to detail, getting things done with accuracy and speed and always looking for the best.<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
   
   
+  <img align="center" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif" alt="JavaScript" height="40" width="40" />
   
   ## My Skills
   
