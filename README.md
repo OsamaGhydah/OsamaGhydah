@@ -42,6 +42,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, getting 
 </div>
 <br></br>
  Skills Backend Development
+ <br></br>
  
 <a href="https://nodejs.org" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40" />
