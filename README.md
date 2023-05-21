@@ -79,7 +79,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, getting 
 <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" width="111" />
 </a>
 
-<a href="osama.alajoury97@gmail.com" target="blank">
+<a href="https://www.linkedin.com/in/osamaghydah/" target="blank">
 <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30" width="111" />
 </a>
 
