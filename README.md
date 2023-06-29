@@ -71,7 +71,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, getting 
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/osamaghydah/" target="blank">
+<a href="https://www.linkedin.com/in/osama-ghydah/" target="blank">
 <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" height="28" width="111" />
 </a>
 
